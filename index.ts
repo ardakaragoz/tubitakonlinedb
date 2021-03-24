@@ -5,6 +5,8 @@ app.listen(3000, () => {
     console.log('Server Aktif')
 })
 
+//TYPESCRIPT
+
 function makeid(length:number) : string {
     /** 
     @makeid(UZUNLUK)

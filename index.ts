@@ -6,7 +6,6 @@ app.listen(3000, () => {
 })
 
 //TYPESCRIPT
-
 function makeid(length:number) : string {
     /** 
     @makeid(UZUNLUK)
@@ -319,3 +318,57 @@ app.get('/yenianahtar', (req: object, res: any): void => {
     })
 })
 
+`
+Created By Arda Karagoz.
+Copyright 2021
+JavaScript-TypeScript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
